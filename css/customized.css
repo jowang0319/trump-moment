@@ -13,6 +13,7 @@ section.main-graphics{
 div.masthead{
     position:relative;
     margin-top:0px;
+    height:100vh;
 	&.full-bleed{
 		margin-top: -30px;
 		.masthead-contents{
@@ -82,6 +83,13 @@ div.showing{
     overflow:hidden;
 }
 
+a{
+    text-decoration: none;
+}
+
+a:visited,a:active,a:hover{
+    text-decoration: none;
+}
 
 
 
@@ -91,12 +99,53 @@ div.showing{
 
     h1{
         font-size: 6.5vw;
-        margin-bottom:-3.5%;
+        margin-top:0;
+        margin-bottom: 0;
     }
 
     h2{
         font-size: 4vw;
         margin-bottom: -2%;
+    }
+
+    h1#title_main{
+        text-align: center;
+        color:white;
+        line-height: 140%;
+        font-family:STXihei;
+        font-size: 5vw;
+    }
+
+    div#head_pic{
+        margin-left: 30%;
+        margin-top: 40%;
+        width:40%;
+    }
+
+    div#title_log{
+        padding-top: 3%;
+        padding-bottom: 3%;
+        padding-left:5%;
+        padding-right: 5%;
+        /*background-color:#f3686c;*/
+        background-color:#68B74A;
+        margin-top: 13%;
+        border-radius: 10px;
+    }
+
+    div#close_fake{
+        background-color:#f3686c;
+        width:18px;
+        height:18px;
+        border-radius: 9px;
+        margin-top: 3%;
+        margin-left: -5%;
+    }
+
+    p.head_other{
+        color:lightgray;
+        font-size: 3.5vw;
+        text-align: center;
     }
 
 
