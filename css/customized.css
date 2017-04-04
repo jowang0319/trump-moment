@@ -160,7 +160,13 @@ a:visited,a:active,a:hover{
         flex-direction: column;
     }
 
+    h4.panel-title{
+        font-size: 4vw;
+    }
 
+    div.panel-heading{
+        padding-left:0;
+    }
 
 
     
