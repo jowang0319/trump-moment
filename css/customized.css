@@ -80,7 +80,7 @@ div.content{
 }
 div.showing{
     display:inline-block;
-    overflow:hidden;
+     overflow:hidden;
 }
 
 a{
@@ -108,8 +108,12 @@ a:visited,a:active,a:hover{
         margin-bottom: -2%;
     }
 
+    p{
+        font-size:3vw;
+    }
+
     h1#title_main{
-        text-align: center;
+        text-align: center; 
         color:white;
         line-height: 140%;
         font-family:STXihei;
@@ -147,6 +151,16 @@ a:visited,a:active,a:hover{
         font-size: 3.5vw;
         text-align: center;
     }
+
+    div#introduction{
+        margin-top:0px;
+        height:100vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+
 
 
     
