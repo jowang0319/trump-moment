@@ -154,7 +154,7 @@ a:visited,a:active,a:hover{
 
     div#introduction{
         margin-top:0px;
-        height:100vh;
+        height:30vh;
         display: flex;
         justify-content: center;
         flex-direction: column;
