@@ -166,6 +166,12 @@ a:visited,a:active,a:hover{
 
     div.panel-heading{
         padding-left:0;
+        padding-bottom:5px;
+    }
+
+    div.panel-body{
+        font-size: 3.7vw;
+        background-color:#F2F2F2;
     }
 
 
