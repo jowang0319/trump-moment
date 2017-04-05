@@ -179,12 +179,15 @@ a:visited,a:active,a:hover{
     div.panel-body{
         font-size: 3.7vw;
         background-color:#F2F2F2;
+        padding:0px;
     }
 
     h4.sub_title{
         font-size:4vw;
         font-weight: bold;
     }
+
+
 
 
     
@@ -289,6 +292,7 @@ a:visited,a:active,a:hover{
         background-color:#F2F2F2;
         width:80%;
         margin-left: 10%;
+        padding:0px;
     }
 
     div.panel-body img{
@@ -407,6 +411,7 @@ a:visited,a:active,a:hover{
         background-color:#F2F2F2;
         width:50%;
         margin-left: 25%;
+        padding:0px;
     }
 
     div.panel-body img{
