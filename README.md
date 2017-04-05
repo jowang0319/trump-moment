@@ -2,7 +2,7 @@
 
 ## Introduction
 Trump's Chinese networking and timeline on big issues <br />
-Link: jiachuanwu.com/trump-moment
+Link: [jiachuanwu.com/trump-moment](https://jiachuanwu.com/trump-moment)
 
 ## Update Diary
 - Apr. 3 2017
