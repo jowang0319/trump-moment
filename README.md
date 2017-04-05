@@ -8,7 +8,14 @@ Link: [jiachuanwu.com/trump-moment](https://jiachuanwu.com/trump-moment)
 - Apr. 3 2017
 	- Create Repository, basic structure added
 	- Create style sheet
+	- Updating Moments1
 - Apr. 4 2017
-	- Updating Moments
+	- Updating Moments2
 	- Adding stories
-	- Tie up timeline draft
+	- Tie up timeline 1-2
+- Apr. 5 2017
+	- Updating Moments3
+	- Adding stories
+	- Tie up timeline 3
+	- Adjust pix resolution
+	
