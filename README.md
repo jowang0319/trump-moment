@@ -1,7 +1,7 @@
 # Trump's Moment in China
 
 ## Introduction
-Trump's Chinese networking and timeline on big issues
+Trump's Chinese networking and timeline on big issues <br />
 Link: jiachuanwu.com/trump-moment
 
 ## Update Diary
