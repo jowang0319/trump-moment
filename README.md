@@ -1,8 +1,8 @@
-# trump-moment
-Trump's Moment in China
+# Trump's Moment in China
 
 ## Introduction
 Trump's Chinese networking and timeline on big issues
+Link: jiachuanwu.com/trump-moment
 
 ## Update Diary
 - Apr. 3 2017
@@ -11,3 +11,4 @@ Trump's Chinese networking and timeline on big issues
 - Apr. 4 2017
 	- Updating Moments
 	- Adding stories
+	- Tie up timeline draft
