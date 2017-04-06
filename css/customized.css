@@ -104,7 +104,23 @@ p.section_title{
     text-indent:0em;
 }
 
+.friend-zone{
+    height: 40px;
+    background-color: #323232;
+    bottom: 0px;
+    margin: 0px;
+    width: 100vw;
+    margin-left: calc(-1 * ((100vw - 100%) / 2));
+    display: table;
+}
 
+.friend-zone-text{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: #fff;
+    font-size: 4.5vw;
+}
 
 @media all and (max-width: 420px) {
 
