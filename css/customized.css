@@ -119,7 +119,7 @@ p.section_title{
     vertical-align: middle;
     text-align: center;
     color: #fff;
-    font-size: 4.5vw;
+    font-size: 2.5vw;
 }
 
 @media all and (max-width: 420px) {
@@ -217,7 +217,9 @@ p.section_title{
         font-weight: bold;
     }
 
-
+    .friend-zone-text{
+        font-size: 5vw;
+    }
 
 
     
@@ -344,6 +346,13 @@ p.section_title{
         font-size: 2vw;
     }
 
+    .friend-zone{
+        height: 70px;
+    }
+
+    .friend-zone-text{
+        font-size: 5vw;
+    }
 
 }
 
@@ -459,6 +468,7 @@ p.section_title{
     .note{
         font-size: 1.5vh;
     }
+
 }
 	
 
