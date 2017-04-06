@@ -104,16 +104,6 @@ p.section_title{
     text-indent:0em;
 }
 
-.friend-zone{
-    height: 40px;
-    background-color: #323232;
-    bottom: 0px;
-    margin: 0px;
-    width: 100vw;
-    margin-left: calc(-1 * ((100vw - 100%) / 2));
-    display: table;
-}
-
 .friend-zone-text{
     display: table-cell;
     vertical-align: middle;
@@ -221,6 +211,15 @@ p.section_title{
         font-size: 5vw;
     }
 
+    .friend-zone{
+        height: 40px;
+        background-color: #323232;
+        bottom: 0px;
+        margin: 0px;
+        width: 100vw;
+        margin-left: calc(-1 * ((100vw - 100%) / 2));
+        display: table;
+    }
 
     
 }
@@ -348,10 +347,18 @@ p.section_title{
 
     .friend-zone{
         height: 70px;
+        background-color: #323232;
+        bottom: 0px;
+        margin: 0px;
+        width: 100vw;
+        margin-left: calc(-1 * ((100vw - 100%) / 2));
+        display: table;
     }
 
+
+
     .friend-zone-text{
-        font-size: 5vw;
+        font-size: 3.5vw;
     }
 
 }
@@ -462,6 +469,21 @@ p.section_title{
     h4.sub_title{
         font-size:2.7vh;
         font-weight: bold;
+    }
+
+    .friend-zone{
+        height: 55px;
+        background-color: #323232;
+        bottom: 0px;
+        margin: 0px;
+        width: 50%;
+        margin-left: 25%;
+/*        margin-left: calc(-1 * ((100vw - 100%) / 2));*/
+        display: table;
+    }
+
+    .friend-zone-text{
+        font-size: 3.0vh;
     }
 
 
