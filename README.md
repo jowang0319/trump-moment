@@ -1,4 +1,5 @@
 # Trump's Moment in China
+Made by Jiachuan Wu, Zhizhou Wang, Yuxuan Chen
 
 ## Introduction
 Trump's Chinese networking and timeline on big issues <br />
